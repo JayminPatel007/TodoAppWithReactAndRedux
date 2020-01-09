@@ -1,3 +1,6 @@
+//TODO: Add filter functionality
+//TODO: Restruvture Reat App into smaller components.
+
 const todo = (state, action) => {
     switch (action.type){
         case "ADD_TODO":
